@@ -1,0 +1,4 @@
+write a program to  find area of triangle . 
+
+write a program to find squre of number.
+

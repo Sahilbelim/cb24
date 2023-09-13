@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css" />
+    
+</head>
+<body>
+    <a href="https://picsum.photos/202" data-fancybox="gallery" data-caption="Caption #1">
+        <img src="https://picsum.photos/202" />
+    </a>
+    
+    <a href="https://picsum.photos/201" data-fancybox="gallery" data-caption="Caption #2"></a>
+
+    
+    <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
+    <script>
+        Fancybox.bind('[data-fancybox="gallery"]', {
+                // Your custom options
+            });
+            Fancybox.bind(document.getElementById("gallery-wrap"), "[data-fancybox]", {
+                    // Your custom options
+                });
+    </script>
+</body>
+</html>
