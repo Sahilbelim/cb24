@@ -4,7 +4,7 @@ void main()
 {
     float height, base, area;
 
-    height = 85;
+    height = 75;
     base = 6;
     printf("Value of Height is %.2f \n", height);
     printf("Value of Base is %.2f \n",base);
