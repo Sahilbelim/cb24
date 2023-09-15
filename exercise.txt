@@ -5,3 +5,13 @@ write a program to find squre of number.
 wrire a program to  find area of cylinder .
 
 write a program to find volume of qube.
+ -------------------------15/09/2023------------------------------
+
+ write program to find multiplication table of given number .
+
+ wrire a program to find area  of triangle take input from user using scanf .
+
+ wrire a program to find area  of cylinder take input from user using scanf .
+
+ wrire a program to find squre of number. take input from user using scanf .
+
