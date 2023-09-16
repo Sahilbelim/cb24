@@ -14,4 +14,11 @@ write a program to find volume of qube.
  wrire a program to find area  of cylinder take input from user using scanf .
 
  wrire a program to find squre of number. take input from user using scanf .
+------------------------------------16/09/2023-----------------------------
+
+write a program to calculet simple intrest .
+
+wrire a program to fing electricity bill .
+take a unit and amout and text rate.
+
 
