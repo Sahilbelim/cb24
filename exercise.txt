@@ -22,3 +22,8 @@ wrire a program to fing electricity bill .
 take a unit and amout and text rate.
 
 
+----------------------------------18/09/2023------------------------------
+
+write a program to check number1 small.
+
+write a program to find income taxe income :5 lk taxe rate : 5% . 
