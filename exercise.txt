@@ -27,3 +27,11 @@ take a unit and amout and text rate.
 write a program to check number1 small.
 
 write a program to find income taxe income :5 lk taxe rate : 5% . 
+
+--------------------------------19/09/2023---------------------------------
+
+write a program to check given number is opsitive nagitive .
+
+write a program to findout whether given year is leap year or not ( using if else )
+
+write a program to  findout small  area of two  triangle 
