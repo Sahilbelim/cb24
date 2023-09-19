@@ -7,8 +7,8 @@ void main()
     printf("Enter value of Number 2 ");
     scanf("%d", &num2);
 
-    // printf("Number 1 : %d", num1);
-    // printf("\nNumber 2 : %d", num2);
+    printf("Number 1 : %d", num1);
+    printf("\nNumber 2 : %d", num2);
 
     if(num1==num2)
     {
