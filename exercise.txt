@@ -35,3 +35,19 @@ write a program to check given number is opsitive nagitive .
 write a program to findout whether given year is leap year or not ( using if else )
 
 write a program to  findout small  area of two  triangle 
+
+-----------------------------------20/09/2023-------------------------------
+
+write a program to check number is odd , even or zero .
+
+write a program to check number negetive or not ,if negetive to convert int to possitive 
+
+Check if a character is a vowel or a consonant. 
+
+write a program to check bmi conditions.
+
+condition:  https://www.cdc.gov/healthyweight/images/assessing/bmi-adult-fb-600x315.jpg?_=07167
+
+
+
+Check if a triangle is equilateral, isosceles, or scalene. (lenth)
