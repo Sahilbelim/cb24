@@ -42,7 +42,7 @@ write a program to check number is odd , even or zero .
 
 write a program to check number negetive or not ,if negetive to convert int to possitive 
 
-Check if a character is a vowel or a consonant. 
+Check if a character is a vowel or a consonant.
 
 write a program to check bmi conditions.
 
@@ -51,3 +51,33 @@ condition:  https://www.cdc.gov/healthyweight/images/assessing/bmi-adult-fb-600x
 
 
 Check if a triangle is equilateral, isosceles, or scalene. (lenth)
+
+-----------------------------------21/09/2023------------------------------
+
+Write a program to display zodiac symbol & given zodiac sign from given birth day and month as per following criteria.
+https://i.pinimg.com/564x/43/aa/50/43aa50c918f3bd03abb71b6d4aaf93c7.jpg
+
+
+ Write a programe to findout income tax based on given condition take monthly income as input 
+yearly income     tax rate
+<3,00,000         5%  
+
+>=3,00,000
+<5,00,000         10%  
+
+>=5,00,000
+<8,00,000         20%
+
+>=8,00,000        30%  
+
+
+
+
+ Write a C program to calculate final electricity bill based upon below given criteria. take monthly electricity unit from user as input. 
+units           price  per unit 
+<100            1
+>100 & <200     2 
+>200 & <300     3
+>300 & <400     4
+>400            5
+also calculate 5% percentage energy charge on total bill amount & display total amount 
