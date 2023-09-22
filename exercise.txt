@@ -81,3 +81,4 @@ units           price  per unit
 >300 & <400     4
 >400            5
 also calculate 5% percentage energy charge on total bill amount & display total amount 
+
