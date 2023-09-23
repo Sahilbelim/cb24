@@ -82,3 +82,9 @@ units           price  per unit
 >400            5
 also calculate 5% percentage energy charge on total bill amount & display total amount 
 
+-------------------------------------23/09/2023------------------------------------
+
+write  program to find area of three triangle and check smaller .
+
+write a program to print day of month and year.
+
