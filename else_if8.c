@@ -12,7 +12,7 @@ void main()
     {
         printf("Day of month is 31 ");
     }
-    else if (month==2)
+    else if (month==2 )
     {
         printf("Day of month is 28/29");
     }

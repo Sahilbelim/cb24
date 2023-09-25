@@ -88,3 +88,15 @@ write  program to find area of three triangle and check smaller .
 
 write a program to print day of month and year.
 
+---------------------------------------25/09/2023-------------------------------
+
+write a program to get two digit number 
+
+ex : 25 and print like this first number 2 ans sencond nuumber 5 .
+
+and print two five
+
+https://i.pinimg.com/originals/24/c0/3b/24c03bc8f04e1d97887431ef6ae23c89.jpg .
+
+
+
