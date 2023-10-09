@@ -65,6 +65,9 @@ do while loop
         line 1
         line 2
         ......
+    k--;
+    i++;
+
     }while(condition);
 
 what is nested loop?
