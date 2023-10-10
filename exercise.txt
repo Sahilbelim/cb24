@@ -155,3 +155,6 @@ https://i1.faceprep.in/fp/articles/img/46684_1580817324.png
 hollow full pyramid 
 
 10 : 1 +2+3+4+5+6+7+8+9+10 = 55
+------------------------------------------------------10/10/2023-------------------------------
+
+wrire a program to find area of triangle,circle,cylinder,qure,and also check to user continue with program if yes then continue or no then stop.
