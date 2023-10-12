@@ -158,3 +158,9 @@ hollow full pyramid
 ------------------------------------------------------10/10/2023-------------------------------
 
 wrire a program to find area of triangle,circle,cylinder,qure,and also check to user continue with program if yes then continue or no then stop.
+
+------------------------------------------------------12/10/2023-------------------------------
+
+wrire a program to find number of  area for triangle .
+
+wrire a program to print your name using array .

@@ -11,7 +11,7 @@ void main()
 
     i = 0;
     printf("Value of number 1  %d\n", number[i]);
-    i = 1;
+    i = +1;
     printf("Value of number 2  %d\n", number[i]);
     i = 2;
     printf("Value of number 3  %d\n", number[i]);
