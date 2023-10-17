@@ -1,0 +1,47 @@
+Functions in C language
+----------------------------------
+what is function 
+	function is named program which is used to perform specific task. for example in c language we use printf function to display message on screen. scanf function is used to take input from user using keyboard.
+	
+	we can call function(run function) as many times as we need. 
+	
+	each function has name and at least one line of code in it however we can add any line of coding in function.
+
+	function can also have inputs known as parameters or arguments.  it is optional function process input and may optionally return at most one output. 
+	
+	there are many type of function in c language.
+		1) without arguments without return value function 
+		1) with arguments without return value function 
+		3) without arguments with return value function 
+		4) with arguments with return value function 
+		
+built in function/library function
+	function which is available in c language is called built in function or library function such as printf, scanf etc 
+
+user defined function (UDF)
+	function created by us(developer) as per requirement is called user defined function.
+	
+how to create function 
+	syntax 
+	
+	datatype function-name(datatype variable-name,[datatype variable-name....])
+	{
+		
+	
+	}
+	
+	example 
+	void printstar()
+	{
+		printf("\n ****************************************************************** \n");
+		
+	}
+	
+how to call function/run function?
+	syntax
+		function-name();
+example 
+void main()
+{
+	printstar(); //calling function printstar to print 35 astrik on new line 
+}
