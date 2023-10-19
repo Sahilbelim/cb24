@@ -19,6 +19,26 @@ int Sub(int a,int b)
 
  
 }
+int div(int num1, int num2)
+{
+    float div = 0;
+    return (num1 / num2);
+}
+int mul(int mul1, int mul2)
+{
+    int mul = 0;
+
+    mul = mul1 * mul2;
+    return mul;
+}
+int mod(int mod1, int mod2)
+{
+    int mod = 0;
+
+    mod = mod1 % mod2;
+    return mod;
+}
+
 void main()
 {
     int number1, number2,addition,sub;
@@ -39,21 +59,3 @@ void main()
 
 }
 
-/*
-int Sub(int a,int b)
-{
-    float sub = 0;
-    if(a>=b)
-    {
-         return (a - b);
-
-    }
-
-    else
-    {
-        return  (b - a);
-
-    }
-
-}
-*/

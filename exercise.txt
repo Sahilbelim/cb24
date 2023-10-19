@@ -164,3 +164,18 @@ wrire a program to find area of triangle,circle,cylinder,qure,and also check to 
 wrire a program to find number of  area for triangle .
 
 wrire a program to print your name using array .
+
+----------------------------------------19/10/2023-----------------------------
+
+wrire a program to given menu
+
+1 for find bmi
+
+2 for find area of triangle
+
+3 for find area of cylinder
+
+4 for find squre of given
+
+5 for find zodiac Sign
+
