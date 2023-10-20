@@ -1,6 +1,6 @@
-#include<stdio.h>
+#include <stdio.h>
 
-int Add(int n1,int n2)
+int Add(int n1, int n2)
 {
     int add;
     add = n1 + n2;
@@ -8,10 +8,10 @@ int Add(int n1,int n2)
     return add;
 }
 
-int Sub(int a,int b)
+int Sub(int a, int b)
 {
     float sub = 0;
-    if(a>=b)
+    if (a >= b)
     {
         sub = a - b;
     }
@@ -19,13 +19,12 @@ int Sub(int a,int b)
     {
         sub = b - a;
     }
-    
 
     return sub;
 }
 void main()
 {
-    int number1, number2,addition,sub;
+    int number1, number2, addition, sub;
 
     printf("Enter Value of Number 1 : ");
     scanf("%d", &number1);
@@ -40,5 +39,4 @@ void main()
     sub = Sub(number1, number2);
 
     printf("Substraction of Given number %d \n", sub);
-
 }
