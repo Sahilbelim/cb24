@@ -1,0 +1,56 @@
+what is structure?
+    structure means collection of variables. 
+    each variable in structure can be of different datatype.
+    all the variables in collection must be somehow logically related to each other.
+    each variable in structure is called member variable.
+    structure is used to create our own datatypes. so it is called user defined datatype.
+    structure is used because in c language we can not create single variable which can store different type of value.
+    structure can represent real word problems. for example we can create structure student in which we can store all the information of student as single unit.
+    we can also pass structure variable into function to reduce arguments in function. and we can also return structure type variable from function to return multiple value from function. 
+
+    how to create structure
+    syntax 
+    struct structure-name 
+    {
+        datatype variable;
+        datatype variable;
+        datatype variable;
+    };
+
+    example 
+    struct time 
+    {
+        int hour;
+        int minute;
+        int sec;
+    };
+
+    void main()
+    {
+        struct time t1,t2;
+        t1.hour=24;
+        t1.minute=60;
+        
+    }
+
+      example :2
+    struct time 
+    {
+        int hour;
+        int num[5];
+        int minute;
+    }t1,t[5];
+
+
+    void main()
+    {
+      
+        t1.hour=24;
+        t1.minute=60;
+          t2.hour=24;
+        t2.minute=60;
+        
+    }
+
+    we can create array inside structure. which is called array within structure.
+    we can create array of structure. which is called array of structure.
