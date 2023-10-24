@@ -27,7 +27,7 @@ how to create function
 	datatype function-name(datatype variable-name,[datatype variable-name....])
 	{
 		
-	
+
 	}
 	
 	example 

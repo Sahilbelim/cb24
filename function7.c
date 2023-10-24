@@ -31,6 +31,7 @@ int Mul(int mul1, int mul2)
     mul = mul1 * mul2;
     return mul;
 }
+
 int Mod(int mod1, int mod2)
 {
     int mod = 0;
