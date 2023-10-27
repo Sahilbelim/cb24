@@ -1,4 +1,4 @@
-1]write a programe miliniyam year .
+1]write a programe to check given year is  miliniyam year or note .
 
 2] write a programe to add 10 element in array and sorting .
 
