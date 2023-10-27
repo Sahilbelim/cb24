@@ -1,0 +1,5 @@
+1]write a programe miliniyam year .
+
+2] write a programe to add 10 element in array and sorting .
+
+3] write a programe to perform calculater and also use switch case in programe .

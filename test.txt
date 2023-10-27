@@ -1,0 +1,27 @@
+1]What is variable 
+
+2]What area diffrent type of datatypes 
+
+3]How much space does integer use ?
+
+4]How much space does float use ?
+
+5]How much space does Char use ?
+
+6]What are decision making statement explain all types with example 
+
+7]What is else if ladder explain with programe 
+
+8]What is loop
+
+9]Give example of Do while loop
+
+10]What is function 
+
+11]What is UDF 
+
+12]Explain 2 types of array 
+
+13]What is memeber variable
+
+14]create a structure for teacher in include name,age,number and also write size of structure .
